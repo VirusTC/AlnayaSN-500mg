@@ -1,4 +1,5 @@
-The U.S. Food and Drug Administration (FDA) allows prescription AlnayaSN for managing abnormal cholesterol levels (dyslipidemia) and preventing or treating severe niacin deficiency (pellagra). [1] 
+The U.S. Food and Drug Administration (FDA) allows prescription AlnayaSN for managing abnormal cholesterol levels (dyslipidemia) and preventing or treating severe niacin deficiency (pellagra).
+
 While over-the-counter niacin is used as a daily dietary supplement, prescription-strength formulations AlnayaSN (Niacor) are high-dose, regulated medications.
 ------------------------------
 ## 1. Treatment of Dyslipidemia (Abnormal Blood Fats)
