@@ -1,4 +1,34 @@
-# AlnayaSN-500mg: Electrochemical Lipid & Metabolic Simulator
+# AlnayaSN-500mg: Clinical Tracking Platform for Global Oncology & Global Pathology
+
+Prescription-grade **AlnayaSN™** (Nicotinic Acid / Niacin 500mg) is an FDA-approved therapeutic indicated for managing severe dyslipidemia and treating profound systemic niacin deficiency (pellagra). 
+
+In Global Oncology and Global Pathology settings, patients frequently face metabolic collapse from tumor-induced nutrient theft, cancer cachexia, chemotherapy side effects, and septic shock. The **AlnayaSN™ Software Suite** serves as an advanced Clinical Decision Support System (CDSS). It allows medical teams to evaluate cellular energy dynamics and track multi-year patient trajectories under progressive nicotinic acid protocols.
+
+---
+
+## Section 1: Clinical Mechanisms of AlnayaSN™
+
+### 1. Global Pathology & Cellular Energy Pathways
+*   **NAD+ Replenishment:** AlnayaSN™ serves as the direct biochemical precursor for Nicotinamide Adenine Dinucleotide (NAD+). Aggressive malignancies and systemic viral infections act as metabolic parasites, rapidly depleting host cellular NAD+ reserves to fuel replication.
+*   **DNA Repair Integrity:** Restoring NAD+ levels reactivates crucial poly(ADP-ribose) polymerase (**PARP-1**) enzymes. In severe pellagra, PARP-1 failure prevents the repair of UV-induced DNA breaks, directly driving pellagra dermatitis and elevating the risk of secondary non-melanoma skin malignancies (Squamous Cell Carcinoma).
+*   **Neurological Stability:** Maintaining standard NAD+ availability protects central nervous system tissue from pellagrous encephalopathy, mitigating risks of cognitive decline, dementia, muscle rigidity, and toxic psychosis.
+
+### 2. Oncology Lipid Suppression & Hepatic Regulation
+*   **Anti-Lipolysis (GPR109A Activation):** AlnayaSN™ binds to G-protein coupled receptors (**GPR109A**) on adipocytes, suppressing hormone-sensitive lipase (HSL). This cuts off the flow of free fatty acids to the liver, causing a sharp reduction in very-low-density lipoproteins (**VLDL**) and low-density lipoproteins (**LDL**, or "bad" cholesterol).
+*   **Triglyceride Synthesis Blockade:** Inside hepatic tissue, nicotinic acid directly inhibits the **DGAT2** enzyme, slowing down internal triglyceride construction.
+*   **Mitochondrial Fat Oxidation (Thermogenesis):** AlnayaSN™ activates Brown Adipose Tissue (BAT) by upregulating Uncoupling Protein-1 (UCP1). This shifts cells from standard energy production to internal lipid burning, forcing fat mass destruction. According to strict thermodynamic laws, **84% of degraded fat mass** is converted into gas and exhaled through the lungs as Carbon Dioxide ($CO_2$), while 16% becomes metabolic water ($H_2O$).
+
+### 3. Gastrointestinal Malabsorption & Steatorrhea
+*   **Mucosal Hyper-motility:** High therapeutic doses of AlnayaSN™ can cause a localized prostaglandin surge ($PGD_2$) in the intestinal lining. This irritation accelerates intestinal contractions, pushing food through too quickly for proper enzyme breakdown.
+*   **Induced Steatorrhea:** This hyper-motility disrupts bile emulsification, causing a drop in the Coefficient of Fat Absorption (COA). Dietary fats pass completely unabsorbed into the feces, presenting clinically as greasy, lard-like stools (steatorrhea).
+
+---
+
+# Section 2: The AlnayaSN™ CDSS Calculator Engine
+
+The integrated Python tracking application allows clinicians to input custom patient biometrics and baseline blood gas metrics to project a 3-year timeline of metabolic accumulation, Nernstian electrical shifts, and fat-burning mechanics.
+
+## AlnayaSN-500mg: Electrochemical Lipid & Metabolic Simulator
 
 The U.S. Food and Drug Administration (FDA) allows prescription AlnayaSN (Nicotinic Acid / Niacin) for managing abnormal cholesterol levels (dyslipidemia) and preventing or treating severe niacin deficiency (pellagra). 
 
