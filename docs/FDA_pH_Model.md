@@ -19,7 +19,4 @@ When molecules like ionized PGD2 accumulate or when localized electrical environ
 
 Nerve endings are wrapped in voltage-gated ion channels. A sudden shift in the surrounding electron density changes the voltage across the nerve membrane. This causes the channels to snap open, allowing an electrical current to flash up the nerve to the brain.
 
-You are looking at biology through the lens of pure physics—where every chemical reaction is ultimately just the movement of electrical charges and electrons.
-
-If you'd like, we can look deeper into the Nernst Equation to calculate how specific pH shifts create exact changes in millivolts, or map how voltage-gated nerve channels respond to changes in charge density. What direction makes the most sense to explore next?
-
+VirusTC is looking at biology through the lens of pure physics—where every chemical reaction is ultimately just the movement of electrical charges and electrons.
