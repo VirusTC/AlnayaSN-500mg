@@ -1,13 +1,13 @@
 Based on authoritative medical databases and federal health repositories (including the [National Institutes of Health (NIH)](https://www.ncbi.nlm.nih.gov/books/NBK557728/), [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/immigrant-refugee-health/media/pdfs/pellagra-who.pdf), and academic medical boards), pellagra dermatitis is directly associated with a comprehensive list of underlying diseases, viruses, cancers, and medical conditions. [1, 2, 3] 
-A patient develops this characteristic photosensitive skin eruption because an underlying condition is actively disrupting the body’s levels of Niacin (Vitamin B3) or its precursor amino acid, Tryptophan. [2, 4] 
-------------------------------
+A patient develops this characteristic photosensitive skin eruption because an underlying condition is actively disrupting the body’s levels of Vitamin B3 or its precursor amino acid, Tryptophan. [2, 4] 
+
 ## 1. Cancers (Malignancies) Associated with Pellagra Dermatitis
 Malignant conditions primarily cause secondary pellagra dermatitis by chemically stealing the body's nutrient reserves or by blocking food digestion. [1] 
 
-* Carcinoid Syndrome / Neuroendocrine Tumors (NETs): This is the strongest oncological link. These secretory tumors divert up to 60% of the body's tryptophan to mass-produce serotonin. This completely starves the body of the raw tryptophan needed to naturally build niacin, triggering rapid-onset pellagra dermatitis. [5] 
-* Glucagonoma: A rare neuroendocrine tumor of the pancreas that overproduces the hormone glucagon, altering the systemic processing of amino acids and inducing secondary niacin and zinc deficiencies that present as a painful mouth and severe dermatitis.
+* Carcinoid Syndrome / Neuroendocrine Tumors (NETs): This is the strongest oncological link. These secretory tumors divert up to 60% of the body's tryptophan to mass-produce serotonin. This completely starves the body of the raw tryptophan needed to naturally build Vitamin B3, triggering rapid-onset pellagra dermatitis. [5] 
+* Glucagonoma: A rare neuroendocrine tumor of the pancreas that overproduces the hormone glucagon, altering the systemic processing of amino acids and inducing secondary Vitamin B3 and zinc deficiencies that present as a painful mouth and severe dermatitis.
 * Gastrointestinal Carcinomas (Esophageal, Stomach, Colon Cancer): Advanced malignancies in the digestive tract physically block food passage, trigger cancer-induced cachexia (muscle/nutritional wasting), or cause global intestinal breakdown, cutting off vitamin absorption entirely. [6] 
-* Non-Melanoma Skin Cancers (Squamous Cell Carcinoma): Severe, uncorrected pellagra dermatitis impairs PARP-1 enzymes, which require niacin-derived NAD+ to repair UV-induced DNA breaks. Consequently, the chronic sun-exposed lesions of pellagra dermatitis have a highly elevated risk of developing secondary skin malignancies. [7, 8, 9] 
+* Non-Melanoma Skin Cancers (Squamous Cell Carcinoma): Severe, uncorrected pellagra dermatitis impairs PARP-1 enzymes, which require Vitamin B3-derived NAD+ to repair UV-induced DNA breaks. Consequently, the chronic sun-exposed lesions of pellagra dermatitis have a highly elevated risk of developing secondary skin malignancies. [7, 8, 9] 
 
 ------------------------------
 ## 2. Viruses Associated with Pellagra Dermatitis
@@ -21,23 +21,23 @@ Viruses induce pellagra dermatitis by causing severe metabolic drain, chronic im
 Any condition that prevents the gastrointestinal tract from absorbing nutrients can cause pellagra dermatitis to manifest on the skin: [1, 13] 
 
 * Crohn’s Disease and Ulcerative Colitis: Chronic Inflammatory Bowel Diseases (IBD) cause severe inflammation, ulceration, and destruction of the nutrient-absorbing villi in the intestines, causing massive B-vitamin malabsorption. [5, 14] 
-* Celiac Disease: An autoimmune enteropathy where gluten ingestion flattens the small intestine walls, stopping niacin and tryptophan from transferring into the bloodstream.
+* Celiac Disease: An autoimmune enteropathy where gluten ingestion flattens the small intestine walls, stopping Vitamin B3 and tryptophan from transferring into the bloodstream.
 * Tropical Sprue: A chronic infectious malabsorption disease prevalent in tropical regions that flattens the intestinal lining and strips the body of micronutrients.
 * Short Bowel Syndrome & Bariatric Complications: Structural, surgical removal or shortening of the stomach or small intestines limits the surface area available to process nutrients.
 
 ------------------------------
 ## 4. Neuropsychiatric, Metabolic, & Genetic Disorders
 
-* Chronic Alcohol Use Disorder: This is the most common cause of secondary pellagra in developed nations. Alcohol acts as a direct toxin to the gut lining (toxic gastritis), severely impairs intestinal vitamin transport mechanisms, and impairs the liver's ability to convert tryptophan into niacin.
-* Anorexia Nervosa & Severe Eating Disorders: Extreme nutritional deprivation cuts off the basic intake of dietary niacin and protein.
-* Cirrhosis of the Liver: Advanced liver failure disrupts the primary organ site where biochemical pathways convert dietary tryptophan into usable niacin.
+* Chronic Alcohol Use Disorder: This is the most common cause of secondary pellagra in developed nations. Alcohol acts as a direct toxin to the gut lining (toxic gastritis), severely impairs intestinal vitamin transport mechanisms, and impairs the liver's ability to convert tryptophan into Vitamin B3.
+* Anorexia Nervosa & Severe Eating Disorders: Extreme nutritional deprivation cuts off the basic intake of dietary Vitamin B3 and protein.
+* Cirrhosis of the Liver: Advanced liver failure disrupts the primary organ site where biochemical pathways convert dietary tryptophan into usable Vitamin B3.
 * Hartnup Disease: A rare, inherited genetic metabolic disorder involving an intestinal and renal transport defect. The body becomes completely unable to absorb the amino acid tryptophan from food, causing severe, recurring bouts of pellagra dermatitis and ataxia. [1, 2, 15, 16, 17] 
 
 ------------------------------
 ## 5. Medication-Induced Pathologies
 Certain crucial pharmaceutical therapies act as aggressive metabolic blockers, causing a secondary pellagra rash to emerge as an adverse effect: [1] 
 
-* Antituberculosis Medications (Isoniazid & Pyrazinamide): These drugs inhibit the specific kynureninase enzyme needed to synthesize niacin inside the body.
+* Antituberculosis Medications (Isoniazid & Pyrazinamide): These drugs inhibit the specific kynureninase enzyme needed to synthesize Vitamin B3 inside the body.
 * Chemotherapy Agents (5-Fluorouracil & 6-Mercaptopurine): Used to treat various cancers, these medications inadvertently disrupt nucleotide and vitamin metabolic pathways.
 * Anticonvulsants (Phenobarbital & Hydantoin): Anti-seizure medications that can induce secondary vitamin deficiencies over prolonged usage. [1, 5, 7, 11, 18] 
 
@@ -62,7 +62,7 @@ If you are researching this for a specific case, please share:
 [5] [https://archive.hshsl.umaryland.edu](https://archive.hshsl.umaryland.edu/bitstreams/2988ba41-55cb-4d7f-a865-e905ea8433c6/download)
 [6] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11263005/)
 [7] [https://rarediseases.info.nih.gov](https://rarediseases.info.nih.gov/diseases/10014/pellagra)
-[8] [https://lpi.oregonstate.edu](https://lpi.oregonstate.edu/mic/vitamins/niacin)
+[8] [https://lpi.oregonstate.edu](https://lpi.oregonstate.edu/mic/vitamins/Vitamin B3)
 [9] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2915624/)
 [10] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9639017/)
 [11] [https://pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/33471377/)
@@ -81,15 +81,15 @@ If you are researching this for a specific case, please share:
 
 The following diseases, viruses, and cancers are directly associated with this specific "triad" of gastrointestinal symptoms (Severe Diarrhea, Glossitis, Stomatitis).
 
-Most of these conditions trigger these symptoms by causing Secondary Pellagra (systemically depleting the body of Niacin/Vitamin B3) or by secreting hormones that destroy the digestive lining.
+Most of these conditions trigger these symptoms by causing Secondary Pellagra (systemically depleting the body of Vitamin B3/Vitamin B3) or by secreting hormones that destroy the digestive lining.
 
 1\. Cancers (Malignancies)
 --------------------------
 
 These cancers are chemically unique because they either consume the nutrients needed to protect the mouth and gut, or they secrete hormones that actively cause diarrhea and inflammation. [1]
 
--   Carcinoid Syndrome (Neuroendocrine Tumors): This is the primary cancer associated with these specific symptoms. These slow-growing tumors (usually in the intestine or lung) steal up to 60% of the body's tryptophan to make serotonin. This leaves no tryptophan for Niacin synthesis, causing the breakdown of the mouth (stomatitis/glossitis) and severe, watery diarrhea. [2, 3, 4]
--   Glucagonoma (Pancreatic Neuroendocrine Tumor): A rare pancreatic tumor that overproduces the hormone glucagon. It is specifically cited as causing this exact cluster of symptoms: diarrhea, glossitis, and stomatitis (often linked to secondary zinc and niacin deficiencies). [5]
+-   Carcinoid Syndrome (Neuroendocrine Tumors): This is the primary cancer associated with these specific symptoms. These slow-growing tumors (usually in the intestine or lung) steal up to 60% of the body's tryptophan to make serotonin. This leaves no tryptophan for Vitamin B3 synthesis, causing the breakdown of the mouth (stomatitis/glossitis) and severe, watery diarrhea. [2, 3, 4]
+-   Glucagonoma (Pancreatic Neuroendocrine Tumor): A rare pancreatic tumor that overproduces the hormone glucagon. It is specifically cited as causing this exact cluster of symptoms: diarrhea, glossitis, and stomatitis (often linked to secondary zinc and Vitamin B3 deficiencies). [5]
 -   Gastrointestinal Carcinomas (Esophageal, Stomach, Colon): Advanced malignancies in the GI tract physically block nutrient absorption. The resulting severe malnutrition triggers secondary pellagra, manifesting as a painful beefy-red tongue and chronic diarrhea due to the loss of intestinal villi. [6, 7]
 
 2\. Viruses
@@ -97,7 +97,7 @@ These cancers are chemically unique because they either consume the nutrients ne
 
 Viral associations are typically linked to chronic immune activation and direct damage to the gut lining, which prevents the absorption of vitamins necessary to maintain oral health. [8]
 
--   HIV / AIDS: This is the most significant viral cause. HIV infection causes "HIV enteropathy" (chronic diarrhea) and massive tryptophan depletion. The resulting niacin deficiency leads directly to the classic pellagra signs of a swollen, painful tongue (glossitis) and mouth sores (stomatitis). [9, 10, 11, 12, 13]
+-   HIV / AIDS: This is the most significant viral cause. HIV infection causes "HIV enteropathy" (chronic diarrhea) and massive tryptophan depletion. The resulting Vitamin B3 deficiency leads directly to the classic pellagra signs of a swollen, painful tongue (glossitis) and mouth sores (stomatitis). [9, 10, 11, 12, 13]
 -   Chronic Viral Gastroenteritis: In immunocompromised patients, persistent infections (like chronic Rotavirus) can strip the lining of the intestine, leading to malabsorption-induced glossitis and diarrhea. [10, 14]
 
 3\. Diseases & Metabolic Disorders
@@ -105,7 +105,7 @@ Viral associations are typically linked to chronic immune activation and direct 
 
 These conditions fundamentally break the body's ability to absorb or process the nutrients required to keep the tongue, mouth, and gut healthy.
 
--   Hartnup Disease: A rare genetic disorder where the body cannot absorb tryptophan from the intestine or kidneys. Without this amino acid, the body cannot make Niacin, leading to the exact symptoms of glossitis and diarrhea. [15, 16]
+-   Hartnup Disease: A rare genetic disorder where the body cannot absorb tryptophan from the intestine or kidneys. Without this amino acid, the body cannot make Vitamin B3, leading to the exact symptoms of glossitis and diarrhea. [15, 16]
 -   Crohn's Disease & Ulcerative Colitis: Chronic Inflammatory Bowel Diseases (IBD) cause severe malabsorption. The constant inflammation prevents the absorption of B-vitamins, leading to secondary stomatitis and glossitis even if the patient is eating food. [15, 17]
 -   Alcohol Use Disorder: The most common cause in developed nations. Alcohol acts as a toxin to the gut lining, blocking absorption and acting as a diuretic that flushes out existing vitamins, rapidly leading to the "beefy red tongue" and digestive failure of pellagra. [18]
 
@@ -114,7 +114,7 @@ Summary of Associations
 
 | Underlying Condition | Mechanism causing Diarrhea/Glossitis/Stomatitis |
 | Carcinoid Tumor | Chemical Theft: Steals Tryptophan to make Serotonin. |
-| Glucagonoma | Hormonal Excess: Overproduction of Glucagon + Zinc/Niacin loss. |
+| Glucagonoma | Hormonal Excess: Overproduction of Glucagon + Zinc/Vitamin B3 loss. |
 | HIV / AIDS | Malabsorption + Depletion: Chronic gut infection + metabolic drain. |
 | Hartnup Disease | Genetic Block: Inability to transport/absorb amino acids. |
 | Alcoholism | Direct Toxicity: Destroys gut lining + blocks vitamin uptake. |
@@ -167,10 +167,10 @@ The primary underlying diseases, viruses, and cancers systematically proven to i
 1\. Systemic and Metabolic Diseases
 -----------------------------------
 
-These conditions directly deprive the central nervous system of Nicotinamide Adenine Dinucleotide (NAD+), a vital coenzyme derived from Niacin (Vitamin B3) that the brain requires for cellular energy, neurotransmitter synthesis, and DNA repair. [1, 3]
+These conditions directly deprive the central nervous system of Nicotinamide Adenine Dinucleotide (NAD+), a vital coenzyme derived from Vitamin B3 that the brain requires for cellular energy, neurotransmitter synthesis, and DNA repair. [1, 3]
 
--   Alcoholic Pellagrous Encephalopathy (Chronic Alcohol Use Disorder): This is the most common cause of this severe neuropsychiatric cluster in developed nations. Chronic alcohol toxicity damages the gut lining to block vitamin absorption and acts as a liver toxin that stops the conversion of tryptophan to niacin. It leads directly to advanced encephalopathy, muscle tremors, rigid limbs (extrapyramidal signs), insomnia, and profound toxic psychosis/hallucinations. [4, 5, 6, 7, 8]
--   Hartnup Disease: A rare, inherited genetic metabolic disorder involving a mutation that prevents the intestines and kidneys from absorbing the amino acid tryptophan. Without tryptophan, the body cannot manufacture niacin, causing patients to experience intermittent bouts of ataxia, muscle tremors, severe depression, delirium, and full-blown psychosis. [9]
+-   Alcoholic Pellagrous Encephalopathy (Chronic Alcohol Use Disorder): This is the most common cause of this severe neuropsychiatric cluster in developed nations. Chronic alcohol toxicity damages the gut lining to block vitamin absorption and acts as a liver toxin that stops the conversion of tryptophan to Vitamin B3. It leads directly to advanced encephalopathy, muscle tremors, rigid limbs (extrapyramidal signs), insomnia, and profound toxic psychosis/hallucinations. [4, 5, 6, 7, 8]
+-   Hartnup Disease: A rare, inherited genetic metabolic disorder involving a mutation that prevents the intestines and kidneys from absorbing the amino acid tryptophan. Without tryptophan, the body cannot manufacture Vitamin B3, causing patients to experience intermittent bouts of ataxia, muscle tremors, severe depression, delirium, and full-blown psychosis. [9]
 -   Severe Gastrointestinal Malabsorption Diseases (Crohn's, Celiac, Ulcerative Colitis): Advanced or untreated inflammatory bowel diseases physically flatten and destroy the nutrient-absorbing villi of the small intestine. The resulting baseline nutritional depletion starves the brain of B-complex vitamins, manifesting as global cognitive decline, chronic systemic weakness, and severe depression. [1, 2, 10]
 -   Anorexia Nervosa and Extreme Malnutrition: Absolute dietary deprivation removes the raw materials needed for cellular brain metabolism. In advanced stages, this induces metabolic encephalopathy characterized by disorientation, memory loss, extreme physical exhaustion, and paranoia. [2, 11, 12, 13]
 
@@ -181,7 +181,7 @@ These conditions directly deprive the central nervous system of Nicotinamide Ade
 
 Malignant conditions cause this neuro-psychiatric breakdown via two distinct methods: paraneoplastic metabolic theft or direct physical blockage of the digestive tracts. [2, 6]
 
--   Carcinoid Syndrome (Neuroendocrine Tumors): These tumors (typically originating in the gastrointestinal tract or lungs) biochemically divert up to 60% of the body's dietary tryptophan to feed themselves and mass-produce serotonin. Because the tumor steals the raw tryptophan, the brain experiences a localized, catastrophic drop in niacin levels. This triggers rapid-onset cognitive decline, confusion, paranoia, severe insomnia, and motor dysfunction. [6]
+-   Carcinoid Syndrome (Neuroendocrine Tumors): These tumors (typically originating in the gastrointestinal tract or lungs) biochemically divert up to 60% of the body's dietary tryptophan to feed themselves and mass-produce serotonin. Because the tumor steals the raw tryptophan, the brain experiences a localized, catastrophic drop in Vitamin B3 levels. This triggers rapid-onset cognitive decline, confusion, paranoia, severe insomnia, and motor dysfunction. [6]
 -   Gastrointestinal Carcinomas (Esophageal, Gastric, or Pancreatic Cancers): Advanced upper digestive tract malignancies can physically obstruct the ingestion of nutrients or cause severe cachexia (cancer-induced muscle and metabolic wasting). The resulting secondary pellagra starves the central nervous system, leading to encephalopathy, muscle rigidity, and altered consciousness. [2, 10]
 
 * * * * *
