@@ -7,7 +7,36 @@ When combined, Abnormal Blood Fats (Dyslipidemia), High "Bad" Cholesterol (LDL),
 
 Based on clinical data from government (`.gov`) and academic (`.edu`) research, this "Lipid Triad" is a primary driver or accelerating factor for the following expanded list of diseases, specifically including Cancers and Viral Metabolic Syndromes.
 
-1\. Associated Cancers (The Lipid-Tumor Link)
+1\. Dermatological Symptoms (Pellagra Dermatitis)
+
+-   **Symmetrical skin lesions:** Severe, painful, scaly rashes that develop evenly on both sides of the body.
+-   **Photosensitivity:** Extreme skin blistering, redness, and peeling when exposed to sunlight.
+-   **"Casal Necklace" lesions:** A specific, prominent, dark ring of hyperpigmentation and cracked skin around the neck.
+
+2\. Gastrointestinal Symptoms
+
+-   **Chronic, severe diarrhea:** Severe digestive tract inflammation resulting in persistent watery stools.
+-   **Glossitis:** An inflamed, swollen, beefy-red, and painful tongue.
+-   **Stomatitis:** Painful sores and inflammation throughout the lining of the mouth.
+
+3\. Neurological and Psychiatric Symptoms
+
+-   **Dementia and cognitive decline:** Disorientation, memory loss, confusion, and global cognitive impairment.
+-   **Insomnia and extreme fatigue:** Chronic inability to sleep combined with systemic physical weakness.
+-   **Encephalopathy:** Progressing neurological dysfunction that can lead to tremors, rigid muscles, and altered consciousness.
+-   **Psychological distress:** Severe depression, paranoia, anxiety, and hallucinations.
+
+* * * * *
+
+What About Cardiovascular Symptoms?
+
+When prescribed for heart health, niacin is used as a **preventative therapy** to alter blood chemistry, rather than to relieve symptoms you can feel. The FDA approves it to treat the following asymptomatic conditions:
+
+-   **Hyperlipidemia:** To lower elevated "bad" cholesterol (LDL) and total cholesterol.
+-   **Hypertriglyceridemia:** To lower dangerously high blood fat levels (triglycerides) to prevent pancreatitis.
+-   **Atherosclerosis Progression:** Used to slow the build-up of arterial plaque in patients with known coronary artery disease.
+
+4\. Associated Cancers (The Lipid-Tumor Link)
 ---------------------------------------------
 
 Emerging clinical research indicates that dyslipidemia (specifically high triglycerides and cholesterol) provides a fuel source for rapidly dividing tumor cells.
@@ -22,7 +51,7 @@ Emerging clinical research indicates that dyslipidemia (specifically high trigly
 
 * * * * *
 
-2\. Viral & Infectious Metabolic Diseases
+5\. Viral & Infectious Metabolic Diseases
 -----------------------------------------
 
 Viruses often "hijack" the body's lipid metabolism to replicate, as they require host fats to build their viral envelopes. This creates a unique cluster of lipid-driven viral diseases.
@@ -46,7 +75,7 @@ Long COVID Metabolic Sequelae
 -   Post-Acute Dyslipidemia: Survivors of COVID-19, particularly those who had severe infections, are showing higher rates of new-onset dyslipidemia (high cholesterol) and diabetes in the months following recovery. The virus appears to leave a lasting "metabolic scar" that dysregulates how the body processes fats [13, 14].
 
 
-3\. Acute Visceral & Metabolic Organ Damage
+7\. Acute Visceral & Metabolic Organ Damage
 -------------------------------------------
 
 When triglycerides exceed critical thresholds (often >500 mg/dL), they become toxic to internal organs.
@@ -56,7 +85,7 @@ When triglycerides exceed critical thresholds (often >500 mg/dL), they become to
 -   Chronic Kidney Disease (CKD): Lipid deposits damage the delicate filtration units (glomeruli) of the kidneys, accelerating the progression toward dialysis.
 
 
-4\. Macrovascular (Arterial) Destruction
+8\. Macrovascular (Arterial) Destruction
 ----------------------------------------
 
 This remains the primary mortality risk. The combination of High LDL + High Triglycerides + Low HDL is the "perfect storm" for:
@@ -66,7 +95,7 @@ This remains the primary mortality risk. The combination of High LDL + High Trig
 -   Peripheral Artery Disease (PAD): Blockages in the legs leading to amputation risk.
 -   Vascular Dementia: Cognitive decline caused by restricted blood flow to the brain's micro-vessels.
 
-5\. Treatment of Dyslipidemia (Abnormal Blood Fats)
+9\. Treatment of Dyslipidemia (Abnormal Blood Fats)
 ---------------------------------------------------
 
 Prescription niacin is FDA-approved as an adjunct to diet to alter lipid profiles in patients with primary hyperlipidemia and mixed dyslipidemia. It is explicitly allowed to:
@@ -75,7 +104,7 @@ Prescription niacin is FDA-approved as an adjunct to diet to alter lipid profile
 * Reduce Triglycerides: Lowers blood fat levels in patients with severe hypertriglyceridemia.
 * Raise "Good" Cholesterol: Increases High-Density Lipoprotein cholesterol (HDL-C).
 
-6\. Secondary Cardiovascular Protection
+10\. Secondary Cardiovascular Protection
 -----------------------------------------
 
 For patients with a history of heart issues and high cholesterol, specific prescription formulations are FDA-allowed to:
@@ -83,7 +112,7 @@ For patients with a history of heart issues and high cholesterol, specific presc
 * Reduce Heart Attack Risk: Lowers the risk of recurrent, nonfatal myocardial infarctions (heart attacks).
 * Slow Arterial Plaque Build-Up: When combined with a bile acid-binding resin, it is approved to slow the progression or promote the regression of atherosclerotic disease in patients with coronary artery disease (CAD).
 
-7\. Prevention and Treatment of Pellagra
+11\. Prevention and Treatment of Pellagra
 -----------------------------------------
 
 * Deficiency Correction: Prescription immediate-release niacin is approved to treat pellagra, a severe clinical vitamin B3 deficiency. It rapidly reverses the clinical "3 Ds" of pellagra: dermatitis, diarrhea, and dementia.
