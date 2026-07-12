@@ -2,19 +2,19 @@ VirusTC is mapping pH directly onto electrical charge and electron availability,
 
 Here is how that concept translates into the physics of a human, hydrated environment:
 
-## 1. pH as an Indicator of Electron Density
+# 1. pH as an Indicator of Electron Density
 pH measures $H^+$. Because $H^+$ is a proton with a missing electron, a high concentration of $H^+$ (low pH) means a highly positive environment with a relative deficit of free electrons.
 
 Conversely, when the $H^+$ concentration drops (high pH), the relative availability of negative charges and electron density increases. In electrochemistry, this relationship is defined by the Nernst Equation, which directly links pH to electrical potential (voltage). A shift in pH is always a shift in the electrical potential of that solution.
 
-## 2. The Hydrated Human Environment
+# 2. The Hydrated Human Environment
 In a hydrated human environment, this balance becomes an intricate electrical matrix:
 
 * The Water Matrix: Water ($H_2O$) constantly dissociates into $H^+$ and $OH^-$.
 * The Net Charge: If the body absorbs or moves $H^+$ ions out of a specific area, it leaves behind a localized net negative charge (an excess of electron density or $OH^-$ ions).
 * The "Voltage" of the Body: Every single cell in the body acts like a battery. Cells use ion pumps to actively push positive charges ($H^+$, $Na^+$, $K^+$) outside the cell membrane, leaving the inside of the cell with a net negative electrical charge (the resting membrane potential).
 
-## 3. How Nerves Experience the Charge Shift
+# 3. How Nerves Experience the Charge Shift
 When molecules like ionized PGD2 accumulate or when localized electrical environments shift, it alters the electrical field around sensory nerve membranes.
 
 Nerve endings are wrapped in voltage-gated ion channels. A sudden shift in the surrounding electron density changes the voltage across the nerve membrane. This causes the channels to snap open, allowing an electrical current to flash up the nerve to the brain.
@@ -34,13 +34,13 @@ As a biochemical molecule synthesized inside the body, Prostaglandin D2 (PGD2) d
 -   In the Body (Physiological pH): When PGD2 is active in your tissues or bloodstream, it exists in an environment tightly regulated by the body to a slightly alkaline pH of 7.35 to 7.45. At this pH, PGD2 releases a hydrogen ion and exists completely in its water-soluble, ionized (negatively charged) form. [2, 3, 5, 6]
 -   Laboratory Solutions: For medical research or diagnostic testing, pure PGD2 crystalline solid is typically dissolved in a specialized phosphate-buffered saline (PBS) held at a neutral pH of 7.2 to keep the molecule stable. [3, 7]
 
-## 4. Electrochemistry of the Human Body: pH, Voltage, and Nerve Excitability
+# 4. Electrochemistry of the Human Body: pH, Voltage, and Nerve Excitability
 
 This document maps out the mathematical and physical relationship between hydrogen ion concentrations ($\text{pH}$), electrical potential ($E$), and the activation of voltage-gated nerve channels. 
 
 ---
 
-# 1. The Nernst Equation: Converting pH to Millivolts
+## 1. The Nernst Equation: Converting pH to Millivolts
 
 The **Nernst Equation** calculates the reduction potential of an electrochemical cell based on the concentrations of chemical species. Because $\text{pH}$ is a direct measurement of the hydrogen ion ($\text{H}^+$) concentration, changes in $\text{pH}$ alter the local electrical potential (voltage).
 
@@ -81,7 +81,7 @@ $$\Delta E = -61.5 \text{ mV} \cdot \Delta \text{pH}$$
 
 ---
 
-# 2. Membrane Potentials: The Goldman-Hodgkin-Katz (GHK) Equation
+## 2. Membrane Potentials: The Goldman-Hodgkin-Katz (GHK) Equation
 
 While the Nernst equation calculates the potential for a single ion, a human nerve cell membrane is permeable to multiple ions simultaneously ($\text{K}^+$, $\text{Na}^+$, and $\text{Cl}^-$). The resting membrane potential ($V_m$) is determined by the **GHK equation**:
 
@@ -94,7 +94,7 @@ Where:
 
 ---
 
-# 3. Voltage-Gated Nerve Channels and Charge Density
+## 3. Voltage-Gated Nerve Channels and Charge Density
 
 Voltage-gated sodium channels ($\text{Na}_v$) possess a highly charged localized protein structure called the **voltage sensor domain (VSD)**. The physical mechanism of channel activation relies on Coulomb's law and electrostatics.
 
@@ -118,7 +118,7 @@ Where:
 
 ---
 
-# 4. How Local Electron Density Spikes Fire Nerves
+## 4. How Local Electron Density Spikes Fire Nerves
 
 When a localized environment experiences a rapid change in electron density—either due to a local metabolic basic shift ($\text{pH}$ increase) or the accumulation of ionized, negatively charged signaling molecules like $\text{PGD}_2$:
 
