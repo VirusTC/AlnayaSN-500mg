@@ -21,7 +21,7 @@ $$\text{Diacylglycerol} + \text{Fatty Acyl-CoA} \xrightarrow{\text{DGAT2 (Blocke
 
 ## 2. The Mechanics of Steatorrhea (Oily Stools)
 
-When an individual notices stools that resemble "straight lard," they are experiencing **steatorrhea**—the excretion of excess, unabsorbed fat in the feces. High-dose niacin protocols intersect with this phenomenon through two distinct biological pathways:
+When an individual notices stools that resemble "lard," they are experiencing **steatorrhea**—the excretion of excess, unabsorbed fat in the feces. High-dose niacin protocols intersect with this phenomenon through two distinct biological pathways:
 
 ### A. Gastrointestinal Mucosal Irritation and Malabsorption
 High concentrations of immediate-release nicotinic acid cause localized prostaglandin release ($PGD_2$ and $PGE_2$) within the epithelial lining of the stomach and small intestine. This rapid inflammatory surge can trigger:
