@@ -36,7 +36,7 @@ This repository contains a Python-based quantitative simulation engine designed 
 
 ---
 
-## Key Architectural Models Included
+# Key Architectural Models Included
 
 ### 1. Unified Electrochemical Engine
 Models a continuous 3-year timeline (1095 days) mapping a patient's physical attributes to a deterministic charge-density timeline:
