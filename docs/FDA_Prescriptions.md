@@ -56,26 +56,47 @@ If you are researching this for a specific case, please share:
 
 
 [1] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK557728/)
+
 [2] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK557728/)
+
 [3] [https://www.cdc.gov](https://www.cdc.gov/immigrant-refugee-health/media/pdfs/pellagra-who.pdf)
+
 [4] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12532421/)
+
 [5] [https://archive.hshsl.umaryland.edu](https://archive.hshsl.umaryland.edu/bitstreams/2988ba41-55cb-4d7f-a865-e905ea8433c6/download)
+
 [6] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11263005/)
+
 [7] [https://rarediseases.info.nih.gov](https://rarediseases.info.nih.gov/diseases/10014/pellagra)
+
 [8] [https://lpi.oregonstate.edu](https://lpi.oregonstate.edu/mic/vitamins/Vitamin B3)
+
 [9] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2915624/)
+
 [10] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9639017/)
+
 [11] [https://pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/33471377/)
+
 [12] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11282565/)
+
 [13] [https://amj.mk](https://amj.mk/index.php/amj/article/view/361)
+
 [14] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC5786414/)
+
 [15] [https://pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/1764355/)
+
 [16] [https://pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/24627570/)
+
 [17] [https://www.rupahealth.com](https://www.rupahealth.com/post/pellagra-causes-symptoms-and-treatments)
+
 [18] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8363969/)
+
 [19] [https://www.cdc.gov](https://www.cdc.gov/immigrant-refugee-health/media/pdfs/pellagra-who.pdf)
+
 [20] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK221382/)
+
 [21] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7106654/)
+
 [22] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12532421/)
 
 
