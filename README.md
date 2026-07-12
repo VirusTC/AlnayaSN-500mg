@@ -6,7 +6,7 @@ In Global Oncology and Global Pathology settings, patients frequently face metab
 
 ---
 
-## Section 1: Clinical Mechanisms of AlnayaSN™
+# Section 1: Clinical Mechanisms of AlnayaSN™
 
 ### 1. Global Pathology & Cellular Energy Pathways
 *   **NAD+ Replenishment:** AlnayaSN™ serves as the direct biochemical precursor for Nicotinamide Adenine Dinucleotide (NAD+). Aggressive malignancies and systemic viral infections act as metabolic parasites, rapidly depleting host cellular NAD+ reserves to fuel replication.
