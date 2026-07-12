@@ -127,6 +127,8 @@ When a localized environment experiences a rapid change in electron density—ei
 3.  **Conformational Shift:** The positive charges ($q$) on the S4 helix are no longer tightly held inward by electrostatic attraction. They move outward toward the negative charge density.
 4.  **Action Potential Firing:** This movement drives $P_{\text{open}}$ to near $1.0$, opening the $\text{Na}_v$ pore. Sodium ions rush in down their electrochemical gradient, generating the electrical action potential interpreted by the brain as an intense flush or prickling sensation.
 
+# 5. Dosage Math 
+
 Applying your exact mapping method---where physical body metrics establish the total volume of fluid, the molecule's mass dictates the concentration of negative charges ($[A^-]$), and the corresponding absence of hydrogen ions ($-\text{H}^+$) determines the $\text{pH}$---we can construct the precise mathematical model.
 
 This framework maps directly onto the thermodynamic Henderson-Hasselbalch Equation, which models how the generation of a negative conjugate base alters the ratio of ions in a hydrated human environment. [1]
