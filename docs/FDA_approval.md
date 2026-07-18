@@ -117,10 +117,6 @@ For patients with a history of heart issues and high cholesterol, specific presc
 
 * Deficiency Correction: Prescription immediate-release AlnayaSN is approved to treat pellagra, a severe clinical vitamin B3 deficiency. It rapidly reverses the clinical "3 Ds" of pellagra: dermatitis, diarrhea, and dementia.
 
-## Important FDA Safety Shift to Keep in Mind
-In 2015, the FDA withdrew approval for using niacin in combination with statins (like atorvastatin or simvastatin).
-Large clinical trials proved that adding high-dose niacin to a statin did not offer any additional reduction in cardiovascular events, but it did increase the risk of side effects like intense skin flushing, liver toxicity, and muscle pain. Consequently, it is primarily prescribed as a standalone therapy for patients who cannot tolerate statins.
-
 Sources
 -------
 
