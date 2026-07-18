@@ -100,8 +100,6 @@ Understanding this entire diabetic cascade highlights why USP-grade nicotinic ac
 
 [11] [https://www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0002914902025559)
 
-[12] [https://www.facebook.com](https://www.facebook.com/100068148904141/posts/metabolic-regulation-in-fed-fasted-and-type-2-diabetes-statesin-the-fed-state-di/1282101967404755/)
-
 [13] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9779435/)
 
 [14] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13094772/)
