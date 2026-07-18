@@ -54,8 +54,11 @@ A lipid disease can also present as structural liver failure. When a patient exp
 
 Sourcing Nicotinic Acid to Interrupt Pathology
 ----------------------------------------------
+By understanding these pathways, we can see exactly why your **USP-grade nicotinic acid** works as a protective clinical tool:
 
-By understanding these pathways, we can see exactly why your USP-grade nicotinic acid works as a protective clinical tool:
+-   By halting **adipose tissue lipolysis**, it deprives the liver of the raw FFAs needed to generate VLDL.
+-   This directly drops downstream VLDL and circulating ApoB/LDL levels, preventing the initial infiltration that builds **atherosclerotic plaque**.
+-   It lowers systemic triglycerides below the dangerous threshold required to spark **acute pancreatitis**.
 
 [1] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8450356/)
 
