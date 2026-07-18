@@ -49,12 +49,6 @@ When tracking down an unexplained photosensitive rash, medical boards also scree
 * Porphyria Cutanea Tarda (PCT): A metabolic disorder causing severe skin blistering, hyperpigmentation, and extreme fragility when exposed to the sun.
 * Kwashiorkor: Severe, life-threatening protein malnutrition that produces a scaly, flaking dermatitis often mistaken for pellagra. [12, 19, 20, 21] 
 
-If you are researching this for a specific case, please share:
-
-* Is there an active prescription list (such as TB drugs or chemotherapy) involved?
-* Has a doctor already noted other symptoms, like chronic diarrhea or neurological confusion? [1, 22] 
-
-
 [1] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK557728/)
 
 [2] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK557728/)
