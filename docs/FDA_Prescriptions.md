@@ -53,8 +53,6 @@ According to clinical pharmacology profiles maintained by the [NIH National Libr
 * The Mechanism: Synergistic clearance of systemic lipids. While the resin blocks intestinal bile acid absorption (forcing the liver to burn cholesterol stores to build new bile), nicotinic acid stops the liver from pushing out new VLDL and lowers Lipoprotein(a) [Lp(a)] levels. This combined metabolic vacuum clears cholesterol out of vascular tissues. [4, 5, 7, 22, 23] 
 
 ------------------------------
-## Federal Compliance Note (Fixed Statin Combinations)
-Per historical FDA Federal Register Determinations, the agency formally withdrew approvals for nicotinic acid formulated in fixed-dose combination pills with statins (e.g., simvastatin or lovastatin). Large trials proved that adding niacin to regular statins did not show further reduction in cardiovascular endpoints. However, standalone, single-entity prescription nicotinic acid retains every standalone lipid mechanism and indication detailed above. [2, 4, 24, 25, 26] 
 
 [1] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK541128/)
 [2] [https://pubchem.ncbi.nlm.nih.gov](https://pubchem.ncbi.nlm.nih.gov/compound/nicotinic_acid)
