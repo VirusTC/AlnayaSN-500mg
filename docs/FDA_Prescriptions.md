@@ -1,4 +1,4 @@
-The clinical pharmacology and mechanisms of action for prescription Nicotinic Acid (Niacin) under official Food and Drug Administration (FDA) labels are strictly divided into two categories: nutritional deficiency (micronutrient doses) and lipid disease management (pharmacological megadoses). [1, 2, 3] 
+The clinical pharmacology and mechanisms of action for prescription Nicotinic Acid under official Food and Drug Administration (FDA) labels are strictly divided into two categories: nutritional deficiency (micronutrient doses) and lipid disease management (pharmacological megadoses). [1, 2, 3] 
 
 The following mechanisms and indications are fully sourced from the federal drug registries of the FDA Drugs Database and the [National Institutes of Health (NIH) DailyMed Repository](https://dailymed.nlm.nih.gov/). [4, 5] 
 ------------------------------
