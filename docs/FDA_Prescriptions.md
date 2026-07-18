@@ -55,29 +55,55 @@ According to clinical pharmacology profiles maintained by the [NIH National Libr
 ------------------------------
 
 [1] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK541128/)
+
 [2] [https://pubchem.ncbi.nlm.nih.gov](https://pubchem.ncbi.nlm.nih.gov/compound/nicotinic_acid)
+
 [3] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK548176/)
+
 [4] [https://www.accessdata.fda.gov](https://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020381Orig1s051lbl.pdf)
+
 [5] [https://dailymed.nlm.nih.gov](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5fceeb58-e54d-43c1-8abb-33feea69d663)
+
 [6] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9182050/)
+
 [7] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK526107/)
+
 [8] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11965143/)
+
 [9] [https://www.uspharmacist.com](https://www.uspharmacist.com/article/screening-and-treatment-of-pediatric-dyslipidemias)
+
 [10] [https://go.drugbank.com](https://go.drugbank.com/categories/DBCAT000274)
+
 [11] [https://nursekey.com](https://nursekey.com/antihyperlipidemics-and-peripheral-vasodilators/)
+
 [12] [https://pdf.hres.ca](https://pdf.hres.ca/dpd_pm/00027699.PDF)
+
 [13] [https://www.medicaid.nv.gov](https://www.medicaid.nv.gov/Downloads/provider/Niacin_Derivatives_2014_0811.pdf)
+
 [14] [https://dailymed.nlm.nih.gov](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=5fceeb58-e54d-43c1-8abb-33feea69d663&type=display)
+
 [15] [https://www.accessdata.fda.gov](https://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-249_Advicor_pharmr.pdf)
+
 [16] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK425699/)
+
 [17] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8649045/)
+
 [18] [https://www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0735109708012035)
+
 [19] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3972998/)
+
 [20] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8196572/)
+
 [21] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10908091/)
+
 [22] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10732334/)
+
 [23] [https://www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK584298/)
+
 [24] [https://www.sciencedirect.com](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/hydroxymethylglutaryl-coa-reductase)
+
 [25] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8121276/)
+
 [26] [https://emedicine.medscape.com](https://emedicine.medscape.com/article/127943-treatment)
+
 [27] [https://journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/1074248413514481)
